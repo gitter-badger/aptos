@@ -35,6 +35,7 @@
 - Convert JSON Schema documents into different data-interchange formats
 - Simple syntax
 - CLI support for data validation and JSON Schema conversion
+- [Stop Being a "Janitorial" Data Scientist](https://medium.com/@rightlag/stop-being-a-janitorial-data-scientist-5959cccbeac)
 
 ## Installation
 
